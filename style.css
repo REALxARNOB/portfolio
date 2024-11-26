@@ -1,18 +1,22 @@
-body {
-    background-color: #121212;
-    color: #ffffff;
-    font-family: Arial, sans-serif;
-}
-
-h1 {
-    color: #1e90ff;
-}
-
-a {
-    color: #ffa500;
-    text-decoration: none;
-}
-
-a:hover {
-    text-decoration: underline;
-}
+        body
+        {
+            background-color: #121212;
+            color: #ffffff;
+        }
+        
+        a
+        {
+            color: #1e90ff;
+            text-decoration: none;
+        }
+        
+        button
+        {
+            background-color: #333333;
+            color: #ffffff;
+        }
+        
+        button:hover
+        {
+            background-color: #F95738;
+        }
